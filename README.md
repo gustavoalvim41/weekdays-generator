@@ -1,4 +1,4 @@
-# Gerador de Dias da Semana (C++)
+# Gerador de Dias da Semana
 Este é um pequeno programa escrito em **C++** para gerar automaticamente a sequência de dias da semana (`D S T Q Q S S`) correspondente ao mês escolhido.  
 Eu criei esse script quando trabalhava ajustando planilhas e precisava gerar essas sequências rapidamente.  
 Apesar de ser simples e possível de fazer em Python, escolhi usar **C++ porque estava aprendendo na época** e pensando em seguir carreira de gamedev.
